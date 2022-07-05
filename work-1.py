@@ -1,0 +1,12 @@
+print("Hello T.Wisanu")
+print("My name is Chawis Kankajorndech")
+print("or you can call me Mick.")
+print("I live in Chonburi.")
+print("I'am 17 years old.")
+print("There're 4 people in my family.Mother and Father")
+print("I've got one sister. She's 24 years old,")
+print("I loved math and physic class")
+print("My brithday's on 15 february 2005 ")
+print("I spend a lot of my time for games in the free time")
+print("I love pink colors.")
+#Chawis Kankajorndech M.6/14 Number 24
